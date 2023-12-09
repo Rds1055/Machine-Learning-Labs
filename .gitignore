@@ -1,3 +1,4 @@
 *.DS_Store
 *.ipynb_checkpoints
 Datasets/glove
+Datasets/numberbatch-en-19.08.txt
